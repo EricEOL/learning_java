@@ -1,6 +1,6 @@
 public class TesteSistema {
   public static void main(String[] args) {
-/*     Gerente gerente = new Gerente();
+    Gerente gerente = new Gerente();
     gerente.setSenha(2222);
 
     Administrador adm = new Administrador();
@@ -8,6 +8,6 @@ public class TesteSistema {
 
     SistemaInterno sistema = new SistemaInterno();
     sistema.autentica(gerente);
-    sistema.autentica(adm); */
+    sistema.autentica(adm);
   }
 }
